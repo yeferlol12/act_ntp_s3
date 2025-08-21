@@ -6,4 +6,4 @@ adivinanza = 0
 while adivinanza != numero_secreto:
     adivinanza = int(input("Adivina el número (1-10): "))
 
-print(" Adivinaste el número", numero_secreto)
+print("¡Felicidades! Adivinaste el número")
